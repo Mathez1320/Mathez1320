@@ -12,11 +12,12 @@ Albert Einstein para distraídos.
 - 👩🏻‍💻JavaScript
 - ✨CSS            
 - 🔥HTML          
-- ❤️ PHP  - POO
+- ❤️ PHP - POO
 - 🔥MYSQL      
+- ❤️ GIT
 #### Tecnologias que estou estudando atualmente:
-- 👩🏻‍💻TypeScript
-- 👩🏻‍💻React
+- 👩🏻‍💻 MAGENTO 1 && 2
+- 👩🏻‍💻 DOCKER
 <div>
   <a href="https://github.com/Mathez1320/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mathez1320&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,7 +26,7 @@ Albert Einstein para distraídos.
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Math-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg">
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
